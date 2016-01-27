@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/tcss543/TCSS543.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/graph/Edge.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/graph/GraphInput.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/graph/InputLib.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/graph/KeyboardReader.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/graph/SimpleGraph.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/graph/Vertex.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/algorithms/ScalingFordFulkerson.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/algorithms/PreflowPush.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/residualgraph/ResidualVertex.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/residualgraph/ResidualEdge.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/residualgraph/ResidualGraph.java</file>
+            <file>file:/E:/NetBeansProjects/TCSS543/src/algorithms/FordFulkerson.java</file>
+        </group>
+    </open-files>
+</project-private>
